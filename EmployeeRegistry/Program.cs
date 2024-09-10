@@ -8,7 +8,7 @@
             bool quit = false;
             while(true)
             {
-                Console.WriteLine("Hello and welcome to the Employee registry!\n What would you like to do? \n 1. Reveiw Employee Record \n 2. Add an employee \n 3. Exit Application\n");
+                Console.WriteLine("Hello and welcome to the Employee registry!\n What would you like to do? \n 1. Review Employee Record \n 2. Add an employee \n 3. Exit Application\n");
                 switch (Console.ReadLine())
                 {
                     case "1":
